@@ -1,0 +1,10 @@
+E:\ЗАГРУЗКИ\SeaWarsAlekseev\SeaWarsAlekseev\bin\Debug\SeaWars.exe.config
+E:\ЗАГРУЗКИ\SeaWarsAlekseev\SeaWarsAlekseev\bin\Debug\SeaWars.exe
+E:\ЗАГРУЗКИ\SeaWarsAlekseev\SeaWarsAlekseev\bin\Debug\SeaWars.pdb
+E:\ЗАГРУЗКИ\SeaWarsAlekseev\SeaWarsAlekseev\obj\Debug\SeaWars.csproj.AssemblyReference.cache
+E:\ЗАГРУЗКИ\SeaWarsAlekseev\SeaWarsAlekseev\obj\Debug\SeaWars.Form1.resources
+E:\ЗАГРУЗКИ\SeaWarsAlekseev\SeaWarsAlekseev\obj\Debug\SeaWars.Properties.Resources.resources
+E:\ЗАГРУЗКИ\SeaWarsAlekseev\SeaWarsAlekseev\obj\Debug\SeaWars.csproj.GenerateResource.cache
+E:\ЗАГРУЗКИ\SeaWarsAlekseev\SeaWarsAlekseev\obj\Debug\SeaWars.csproj.CoreCompileInputs.cache
+E:\ЗАГРУЗКИ\SeaWarsAlekseev\SeaWarsAlekseev\obj\Debug\SeaWars.exe
+E:\ЗАГРУЗКИ\SeaWarsAlekseev\SeaWarsAlekseev\obj\Debug\SeaWars.pdb
